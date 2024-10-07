@@ -14,6 +14,7 @@ button{
     padding:10px;
     background-color: grey;
     width: 150px;
+    margin: 2px;
 }
 button:hover{
    background-color: white;    
