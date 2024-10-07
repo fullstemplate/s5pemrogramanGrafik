@@ -3,7 +3,7 @@ body{
 }
 #canvas{
     border:1px ; 
-    border-radius:10px;
+    border-radius:7px;
     background-color: #A9FFA7;
 }
 button{
@@ -26,5 +26,5 @@ img{
 .tugas{
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    font: bold;
 }
